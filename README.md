@@ -34,6 +34,14 @@
 <br />
 <br />
 
+## Play with me on [Chess.com](https://www.chess.com/member/mrpajamas92)
+
+<div align="center">
+<!--START_SECTION:chessStats-->
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
+
+<!--END_SECTION:chessStats-->
+</div>
 ---
 
 <details>
