@@ -40,6 +40,8 @@
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
+
+https://www.chess.com/stats/overview/mrpajamas92?
 <!--END_SECTION:chessStats-->
 </div>
 ---
