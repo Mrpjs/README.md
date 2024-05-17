@@ -12,11 +12,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://light-mode-only)
-[![website](./img/globe-dark.svg)](https://dark-mode-only)
+[![website](./img/globe-light.svg)]
+[![website](./img/globe-dark.svg)]
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/andyacostaa-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/andyacostaa-dark-mode-only)
